@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#video-grid{
+    display: flex;
+    justify-content: center;
+
+}
+video{
+    height:400px;
+    width: 300px;
+    object-fit: cover;
+}
